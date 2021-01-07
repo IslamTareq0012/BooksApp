@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksApp", "BooksApp\BooksApp.csproj", "{4F8D9CC1-FD38-4140-ADD3-186A1439F7C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{3DF917EF-8D1A-4368-9F8A-5B50C2770CFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedPackage", "SharedPackage\SharedPackage.csproj", "{51504200-CADD-4D00-83A4-F3170909481A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F8D9CC1-FD38-4140-ADD3-186A1439F7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8D9CC1-FD38-4140-ADD3-186A1439F7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8D9CC1-FD38-4140-ADD3-186A1439F7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8D9CC1-FD38-4140-ADD3-186A1439F7C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF917EF-8D1A-4368-9F8A-5B50C2770CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF917EF-8D1A-4368-9F8A-5B50C2770CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF917EF-8D1A-4368-9F8A-5B50C2770CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF917EF-8D1A-4368-9F8A-5B50C2770CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51504200-CADD-4D00-83A4-F3170909481A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51504200-CADD-4D00-83A4-F3170909481A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51504200-CADD-4D00-83A4-F3170909481A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51504200-CADD-4D00-83A4-F3170909481A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64EC70E8-C343-4A6C-BA71-ED4E73BF996D}
+	EndGlobalSection
+EndGlobal
